@@ -1,0 +1,4 @@
+﻿  MatrixProyecto.cpp
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto de matrix\MatrixProyecto\MatrixProyecto\MatrixProyecto.cpp(43,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'grupo' cuando no hay ninguna variable declarada
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto de matrix\MatrixProyecto\MatrixProyecto\MatrixProyecto.cpp(235): warning C4715: 'color': no todas las rutas de acceso de control devuelven un valor
+  MatrixProyecto.vcxproj -> C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto de matrix\MatrixProyecto\x64\Debug\MatrixProyecto.exe

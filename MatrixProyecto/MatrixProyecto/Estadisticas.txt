@@ -1,0 +1,248 @@
+--- Estadisticas del simulador ---
+Cantidad de pistas: 56
+Agrupaciones que han caido por pista:
+Pista-0: 2
+Pista-1: 1
+Pista-2: 2
+Pista-3: 1
+Pista-4: 1
+Pista-5: 1
+Pista-6: 1
+Pista-7: 1
+Pista-8: 2
+Pista-9: 1
+Pista-10: 2
+Pista-11: 2
+Pista-12: 2
+Pista-13: 1
+Pista-14: 2
+Pista-15: 2
+Pista-16: 2
+Pista-17: 1
+Pista-18: 1
+Pista-19: 1
+Pista-20: 2
+Pista-21: 1
+Pista-22: 2
+Pista-23: 0
+Pista-24: 1
+Pista-25: 2
+Pista-26: 1
+Pista-27: 1
+Pista-28: 0
+Pista-29: 1
+Pista-30: 1
+Pista-31: 2
+Pista-32: 0
+Pista-33: 2
+Pista-34: 1
+Pista-35: 1
+Pista-36: 2
+Pista-37: 2
+Pista-38: 1
+Pista-39: 1
+Pista-40: 1
+Pista-41: 2
+Pista-42: 2
+Pista-43: 2
+Pista-44: 2
+Pista-45: 1
+Pista-46: 2
+Pista-47: 1
+Pista-48: 1
+Pista-49: 2
+Pista-50: 2
+Pista-51: 1
+Pista-52: 1
+Pista-53: 1
+Pista-54: 1
+Pista-55: 1
+Tiempo de ejecucion: 3 segundos
+Cantidad de letras nuevas pintadas: 149
+
+--- Estadisticas del simulador ---
+Cantidad de pistas: 56
+Agrupaciones que han caido por pista:
+Pista-0: 1
+Pista-1: 0
+Pista-2: 1
+Pista-3: 1
+Pista-4: 2
+Pista-5: 0
+Pista-6: 1
+Pista-7: 0
+Pista-8: 1
+Pista-9: 0
+Pista-10: 1
+Pista-11: 1
+Pista-12: 1
+Pista-13: 0
+Pista-14: 1
+Pista-15: 0
+Pista-16: 1
+Pista-17: 1
+Pista-18: 1
+Pista-19: 0
+Pista-20: 0
+Pista-21: 0
+Pista-22: 0
+Pista-23: 0
+Pista-24: 1
+Pista-25: 1
+Pista-26: 1
+Pista-27: 0
+Pista-28: 1
+Pista-29: 1
+Pista-30: 1
+Pista-31: 1
+Pista-32: 0
+Pista-33: 1
+Pista-34: 1
+Pista-35: 1
+Pista-36: 1
+Pista-37: 0
+Pista-38: 0
+Pista-39: 0
+Pista-40: 0
+Pista-41: 1
+Pista-42: 1
+Pista-43: 1
+Pista-44: 1
+Pista-45: 1
+Pista-46: 0
+Pista-47: 1
+Pista-48: 1
+Pista-49: 1
+Pista-50: 1
+Pista-51: 1
+Pista-52: 1
+Pista-53: 1
+Pista-54: 2
+Pista-55: 0
+Tiempo de ejecucion: 1 segundos
+Cantidad de letras nuevas pintadas: 1029
+
+--- Estadisticas del simulador ---
+Cantidad de pistas: 56
+Agrupaciones que han caido por pista:
+Pista-0: 1
+Pista-1: 1
+Pista-2: 2
+Pista-3: 1
+Pista-4: 3
+Pista-5: 2
+Pista-6: 1
+Pista-7: 1
+Pista-8: 1
+Pista-9: 0
+Pista-10: 2
+Pista-11: 2
+Pista-12: 1
+Pista-13: 1
+Pista-14: 2
+Pista-15: 2
+Pista-16: 2
+Pista-17: 2
+Pista-18: 1
+Pista-19: 1
+Pista-20: 1
+Pista-21: 2
+Pista-22: 1
+Pista-23: 0
+Pista-24: 1
+Pista-25: 1
+Pista-26: 1
+Pista-27: 1
+Pista-28: 2
+Pista-29: 2
+Pista-30: 1
+Pista-31: 1
+Pista-32: 1
+Pista-33: 1
+Pista-34: 2
+Pista-35: 2
+Pista-36: 1
+Pista-37: 1
+Pista-38: 2
+Pista-39: 2
+Pista-40: 2
+Pista-41: 1
+Pista-42: 2
+Pista-43: 1
+Pista-44: 2
+Pista-45: 2
+Pista-46: 0
+Pista-47: 2
+Pista-48: 2
+Pista-49: 2
+Pista-50: 2
+Pista-51: 2
+Pista-52: 2
+Pista-53: 2
+Pista-54: 2
+Pista-55: 0
+Tiempo de ejecucion: 4 segundos
+Cantidad de letras nuevas pintadas: 2824
+
+--- Estadisticas del simulador ---
+Cantidad de pistas: 56
+Agrupaciones que han caido por pista:
+Pista-0: 3
+Pista-1: 3
+Pista-2: 4
+Pista-3: 4
+Pista-4: 5
+Pista-5: 3
+Pista-6: 2
+Pista-7: 4
+Pista-8: 3
+Pista-9: 2
+Pista-10: 4
+Pista-11: 5
+Pista-12: 2
+Pista-13: 3
+Pista-14: 4
+Pista-15: 3
+Pista-16: 4
+Pista-17: 5
+Pista-18: 3
+Pista-19: 3
+Pista-20: 2
+Pista-21: 4
+Pista-22: 3
+Pista-23: 3
+Pista-24: 4
+Pista-25: 2
+Pista-26: 5
+Pista-27: 3
+Pista-28: 4
+Pista-29: 3
+Pista-30: 4
+Pista-31: 3
+Pista-32: 5
+Pista-33: 4
+Pista-34: 4
+Pista-35: 4
+Pista-36: 2
+Pista-37: 4
+Pista-38: 4
+Pista-39: 4
+Pista-40: 4
+Pista-41: 4
+Pista-42: 4
+Pista-43: 3
+Pista-44: 5
+Pista-45: 4
+Pista-46: 2
+Pista-47: 4
+Pista-48: 3
+Pista-49: 4
+Pista-50: 3
+Pista-51: 4
+Pista-52: 4
+Pista-53: 5
+Pista-54: 4
+Pista-55: 3
+Tiempo de ejecucion: 11 segundos
+Cantidad de letras nuevas pintadas: 7324
+
